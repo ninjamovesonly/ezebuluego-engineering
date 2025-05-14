@@ -783,7 +783,7 @@ export default function EzebuluegoWebsite() {
                     <div>
                       <h4 className="font-semibold text-gray-800 mb-1">Email</h4>
                       <p className="text-gray-600 hover:text-red-700 transition-colors duration-300">
-                        info@ezebuluego-engineering.com
+                        ezebuluego25@gmail.com
                       </p>
                     </div>
                   </div>
@@ -794,12 +794,12 @@ export default function EzebuluegoWebsite() {
                     </div>
                     <div>
                       <h4 className="font-semibold text-gray-800 mb-1">Head Office</h4>
-                      <p className="text-gray-600">P4 Oduduwa Compound (Workman house)</p>
-                      <p className="text-gray-600">1 Oranto Crescent, Uyo Anambra State</p>
+                      <p className="text-gray-600">Flat 1 Ogbugo Compound (Worldman house)</p>
+                      <p className="text-gray-600">1 Oranto Crescent, Ukpo Anambra State</p>
 
                       <h4 className="font-semibold text-gray-800 mt-4 mb-1">Branch Office</h4>
-                      <p className="text-gray-600">1 JN Maduka Street, Nodu Awka</p>
-                      <p className="text-gray-600">1 Yakubu Daniel Omisafe, Ojo Barracks, Lagos State</p>
+                      <p className="text-gray-600">JN Madubo Street, Nodu Awka.</p>
+                      <p className="text-gray-600">1 Yakubu Daniel Onireke, Ojo Barracks, Lagos State.</p>
                     </div>
                   </div>
                 </div>
@@ -929,7 +929,7 @@ export default function EzebuluegoWebsite() {
                   <li className="flex items-center text-gray-400 group">
                     <Mail size={16} className="mr-2 group-hover:text-red-500 transition-colors duration-300" />
                     <span className="group-hover:text-white transition-colors duration-300">
-                      info@ezebuluego-engineering.com
+                      ezebuluego25@gmail.com
                     </span>
                   </li>
                 </ul>
