@@ -112,35 +112,75 @@ export default function EzebuluegoWebsite() {
   const galleryImages = [
     {
       id: 1,
-      src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-05-14%20at%2011.16.56_d8058c3e.jpg-fHOkXqBm7Mb0YgtErGCPz9FGEDKXXD.jpeg",
+      src: "/design.png",
       alt: "Modern residential building with elegant design",
     },
     {
       id: 2,
-      src: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202025-05-14%20at%2011.17.46_6fa1b9ce.jpg-mJZ5fudmhKNyTP9zLODhtkk0U2xNM1.jpeg",
+      src: "/design1.jpg",
       alt: "Apartment complex under construction",
     },
     {
       id: 3,
-      src: "/placeholder.svg?height=600&width=800",
-      alt: "Interior design project",
+      src: "/design2.jpg",
+      alt: "Interior construction work",
     },
     {
       id: 4,
-      src: "/placeholder.svg?height=600&width=800",
+      src: "/design3.jpg",
       alt: "Commercial building project",
     },
     {
       id: 5,
-      src: "/placeholder.svg?height=600&width=800",
-      alt: "Residential property",
+      src: "/design4.jpg",
+      alt: "Completed residential structure",
     },
     {
       id: 6,
-      src: "/placeholder.svg?height=600&width=800",
-      alt: "Construction site",
+      src: "/design5.jpg",
+      alt: "Ongoing construction site",
     },
-  ]
+    {
+      id: 7,
+      src: "/design6.jpg",
+      alt: "Building foundation and structural work",
+    },
+    {
+      id: 8,
+      src: "/design7.jpg",
+      alt: "Concrete framework in progress",
+    },
+    {
+      id: 9,
+      src: "/design8.jpg",
+      alt: "Structural steel and scaffolding",
+    },
+    {
+      id: 10,
+      src: "/design9.jpg",
+      alt: "Multi-storey building construction",
+    },
+    {
+      id: 11,
+      src: "/design10.jpg",
+      alt: "On-site engineering and materials",
+    },
+    {
+      id: 12,
+      src: "/design11.jpg",
+      alt: "Exterior construction progress",
+    },
+    {
+      id: 13,
+      src: "/design12.jpg",
+      alt: "Building site with cranes and workers",
+    },
+    {
+      id: 14,
+      src: "/design13.jpg",
+      alt: "Final touches on building project",
+    },
+  ];
 
   const testimonials = [
     {
